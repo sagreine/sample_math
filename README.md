@@ -1,4 +1,4 @@
 sample_math
 ===========
 
-Simple program I used to demonstrate recursion to programmers
+Simple C++ program I used to demonstrate recursion to programmers
